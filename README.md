@@ -3,7 +3,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Windows](https://img.shields.io/badge/Windows-.bat-blue)](https://github.com/Pro-mwas1234/focus/blob/main/Windows/focus.bat)
-[![macOS](https://img.shields.io/badge/macOS-.sh-lightgrey)](https://github.com/Pro-mwas1234/focus/blob/main/MacOS?/focus.sh)
+[![macOS](https://img.shields.io/badge/macOS-.sh-lightgrey)](https://github.com/Pro-mwas1234/focus/blob/main/MacOS/focus.sh)
 [![Linux](https://img.shields.io/badge/Linux-.sh-orange)](https://github.com/Pro-mwas1234/focus/blob/main/Linux/focus.sh)
 
 **One script to rule them all. One click to look like you're putting in the work.**

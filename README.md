@@ -1,4 +1,4 @@
-# 🎯 F.O.C.U.S.
+# 🎯 Focu.
 ### Force Off Compulsive Unproductive Sessions
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -8,11 +8,11 @@
 
 **One script to rule them all. One click to look like you're putting in the work.**
 
-## 🤔 What is F.O.C.U.S.?
+## 🤔 What is F.O.C.U.S.(lock in)?
 
 Let's be real. Some days you need to lock in. Other days you just need to *look* like you locked in.
 
-**F.O.C.U.S.** is that friend who covers for you. A cross-platform productivity script that transforms your chaotic desktop into a symphony of professional activity in seconds. Whether you're actually working or just need to look busy before a deadline, FOCUS has your back.
+**FOCUS** is that friend who covers for you. A cross-platform productivity script that transforms your chaotic desktop into a symphony of professional activity in seconds. Whether you're actually working or just need to look busy before a deadline, FOCUS has your back.
 
 ## ✨ What It Does (The Honest Version)
 

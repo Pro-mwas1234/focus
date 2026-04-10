@@ -2,9 +2,9 @@
 ### Force Off Compulsive Unproductive Sessions
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Windows](https://img.shields.io/badge/Windows-.bat-blue)](https://github.com/Pwimawy/F.O.C.U.S./blob/main/windows/focus.bat)
-[![macOS](https://img.shields.io/badge/macOS-.sh-lightgrey)](https://github.com/Pwimawy/F.O.C.U.S./blob/main/mac/focus.sh)
-[![Linux](https://img.shields.io/badge/Linux-.sh-orange)](https://github.com/Pwimawy/F.O.C.U.S./blob/main/linux/focus.sh)
+[![Windows](https://img.shields.io/badge/Windows-.bat-blue)](https://github.com/Pro-mwas1234/focus/blob/main/windows/focus.bat)
+[![macOS](https://img.shields.io/badge/macOS-.sh-lightgrey)](https://github.com/Pro-mwas1234/focus/blob/main/mac/focus.sh)
+[![Linux](https://img.shields.io/badge/Linux-.sh-orange)](https://github.com/Pro-mwas1234/focus/blob/main/linux/focus.sh)
 
 **One script to rule them all. One click to look like you're putting in the work.**
 
@@ -41,24 +41,24 @@ Here's the perfect setup with both options:
 
 **macOS:**
 ```bash
-curl -o ~/focus.sh https://raw.githubusercontent.com/Pro-mwas1234/slacking-2.0/main/mac/focus.sh && chmod +x ~/focus.sh && ~/focus.sh
+curl -o ~/focus.sh https://raw.githubusercontent.com/Pro-mwas1234/focus/main/mac/focus.sh && chmod +x ~/focus.sh && ~/focus.sh
 ```
 
 **Linux:**
 ```bash
-wget -O ~/focus.sh https://raw.githubusercontent.com/Pro-mwas1234/slacking-2.0/main/linux/focus.sh && chmod +x ~/focus.sh && ./focus.sh
+wget -O ~/focus.sh https://raw.githubusercontent.com/Pro-mwas1234/focus/main/linux/focus.sh && chmod +x ~/focus.sh && ./focus.sh
 ```
 
 **Windows (PowerShell):**
 ```powershell
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/https://github.com/Pro-mwas1234/slacking-2.0/main/windows/focus.bat" -OutFile "$env:USERPROFILE\Desktop\focus.bat"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/https://github.com/Pro-mwas1234/focus/main/windows/focus.bat" -OutFile "$env:USERPROFILE\Desktop\focus.bat"
 ```
 
 ### Option 2: Git Clone (for the organized)
 
 ```bash
 # Clone the whole repo (you get everything)
-git clone https://github.com/Pro-mwas1234/slacking-2.0.git
+git clone https://github.com/Pro-mwas1234/focus.git
 cd slacking-2.0
 
 # Pick your OS
